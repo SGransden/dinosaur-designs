@@ -11,10 +11,10 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
-figcation {
+figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
@@ -23,11 +23,13 @@ figcation {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: sans-serif;
 }
 
 nav ol {
   list-style-type: none;
 }
+
 nav a {
   color: #793284;
   text-decoration: none;
